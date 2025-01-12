@@ -31,7 +31,7 @@
 
 ### [:diamond_shape_with_a_dot_inside:](#toc) <a name='1'>Тестовый стенд КЛИЕНТ</a>
 
-![image](https://github.com/user-attachments/assets/6fab59af-d58c-48d3-9697-644c60b0b921)
+![image](https://github.com/user-attachments/assets/6d56bd40-58b6-4cf3-8caf-cdb3af4d77d3)
 
 
 
