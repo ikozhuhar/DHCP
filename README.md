@@ -29,22 +29,23 @@
 
 <br/>
 
-### [:diamond_shape_with_a_dot_inside:](#toc) <a name='1'>Тестовый стенд КЛИЕНТ</a>
+### [:diamond_shape_with_a_dot_inside:](#toc) <a name='1'>Тестовый стенд</a>
+
+
+
+
+<br/>
+
+### [:diamond_shape_with_a_dot_inside:](#toc) <a name='1'>Тестовый стенд</a>
+
+
+
+
+<br/>
+
+### [:diamond_shape_with_a_dot_inside:](#toc) <a name='1'>DHCP КЛИЕНТ</a>
 
 ![image](https://github.com/user-attachments/assets/6d56bd40-58b6-4cf3-8caf-cdb3af4d77d3)
-
-
-
-<br/>
-
-### [:diamond_shape_with_a_dot_inside:](#toc) <a name='1'>Тестовый стенд</a>
-
-
-
-
-<br/>
-
-### [:diamond_shape_with_a_dot_inside:](#toc) <a name='1'>Тестовый стенд</a>
 
 
 
