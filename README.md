@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ikozhuhar/backup/blob/main/img/backup.png">
+<img src="https://github.com/ikozhuhar/DHCP/blob/main/img/DHCP.png">
 </p>
 
 <br/>
